@@ -1,0 +1,2 @@
+# Configur
+Plugin configurator
